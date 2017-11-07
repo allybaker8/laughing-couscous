@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Prime Plow Help
+
+- Prime Plow is optimized for Google Chrome
+- Last Updated Tuesday, March 21
+
 
 You can use the [editor on GitHub](https://github.com/m-shade/laughing-couscous/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
