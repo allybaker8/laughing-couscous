@@ -6,6 +6,7 @@ This document provides a summary of the functionality provided by Prime Plow.
 * Last Updated  Tuesday, March 21
 
 * * *
+
 # Login
 
 ![Log In](/img/LogIn.png)
